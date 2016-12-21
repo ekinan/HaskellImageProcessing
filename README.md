@@ -1,4 +1,4 @@
-# HaskellImageProcessing
+# Haskell Image Processing
 This is a basic image processing GUI I made during my independent study in the Fall 2016 term using wxHaskell. It is menu-driven. First, the user loads an image from their computer; currently the accepted format is TAR. Afterwards, they can select each of the menu panes in the GUI representing some type of operation, and then expand those to select the exact operation that they want to perform. Currently, the following operations are available:
 	1. Recolor
 		-Not a very creative name, but basically the user can convert their image to 
